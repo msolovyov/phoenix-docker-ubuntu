@@ -1,0 +1,3 @@
+Dockerfile for setting up an ubuntu environment for phoenix applications.
+Sets up erlang, elixir, node, and phoenix.
+Versions can be specified by modifying dockerfile
